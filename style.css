@@ -1,0 +1,73 @@
+body{
+    background-color: black;
+    color: rgb(156, 199, 199);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 17px;
+}
+
+#logomarca{
+    text-align: center;
+    width: 200px;
+    padding: 50px;
+}
+
+h1{
+    color: red;
+    text-align: left;
+}
+
+h2{
+    color: blueviolet;
+    text-align: left;
+}
+
+p{
+    text-align: left;
+}
+
+li{
+    text-align: left;
+}
+
+a:visited{
+    color: crimson;
+}
+
+a:hover{
+    color: deeppink;
+}
+
+iframe{
+    text-align: center;
+    padding: 40px;
+    margin: 30px;
+}
+
+strong{
+    color: brown;
+    background-color: rgb(24, 6, 6);
+}
+
+em{
+    color: aqua;
+    font-size: 24px;
+}
+
+.nota{
+    opacity: 0.5;
+}
+
+.passo{
+    color: aliceblue;
+}
+
+div{
+    text-align: center;
+}
+
+img{
+    text-align: center;
+    width: 450px;
+    padding: 50px;
+}
